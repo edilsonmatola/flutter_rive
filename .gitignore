@@ -32,10 +32,6 @@
 /packages/flutter/coverage/
 version
 
-
-# Web related
-lib/generated_plugin_registrant.dart
-
 # Flutter/Dart/Pub related
 **/doc/api/
 .dart_tool/
