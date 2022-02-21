@@ -1,6 +1,6 @@
-# rive_test2
+# Rive ANimations
 
-Rive animation test app with pause/play button.
+Flutter app with Rive animation.
 
 ## Getting Started
 
